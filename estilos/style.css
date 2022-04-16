@@ -1,0 +1,19 @@
+*{
+    margin: auto;
+}
+
+body{
+    background-color: aqua;
+}
+
+.header{
+    height: 100px;
+}
+
+.body{
+    height: 250px;
+}
+
+.footer{
+    height: 100px;
+}
