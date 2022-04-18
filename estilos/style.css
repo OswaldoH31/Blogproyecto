@@ -31,6 +31,11 @@ body{
 
 .sec2{
     background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    list-style: none;
+    color: white;
+
 }
 
 .sec3{
